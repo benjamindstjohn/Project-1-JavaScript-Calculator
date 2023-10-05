@@ -3,9 +3,9 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
 <h3><a href="https://github.com/sanctusjack/Project-3-Calculator">Program 3</a></h3>
 <h3>Program Walkthrough:</h3>
 <b> ❏ Basic Calculator:
-<i>Application designed to complete numerical expressions and display results on GUI</i>.
+<h3>Application designed to complete numerical expressions and display results on GUI</h3>.
     ❏ Javascript program implemented to conduct numerical expressions.<br>
-    ❏ HTML and CSS Utilized for User-friendly GUI Design.
+    ❏ HTML and CSS Utilized for User-friendly GUI Design.<br>
 <br>
 <br>
 <h3>Programming ToolKit Used:</h3>
