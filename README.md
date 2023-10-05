@@ -17,7 +17,7 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
     ∙ CSS.
 <br>
 <br>
-<h5><a href="https://github.com/sanctusjack/Project-3-Calculator/README.md">Systems Used:</a></h5>
+<h5><a href="https://github.com/sanctusjack/Project-3-Calculator">Systems Used:</a></h5>
     ∙ Front-end development. <br>
     ∙ JavaScript for Functionality. <br>
     ∙ User-friendly GUI Design. 
