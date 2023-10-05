@@ -5,7 +5,7 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
 <p1><b>Basic Calculator:</b></p1>
 <br>
 <i>Application designed to complete numerical expressions and display results on GUI</i>.
-    ❏ Javascript program implemented to conduct numerical expressions.<br>
+    ❏ Javascript program implemented to conduct numerical expressions. <br>
     ❏ HTML and CSS Utilized for User-friendly GUI Design.<br>
 <br>
 <br>
