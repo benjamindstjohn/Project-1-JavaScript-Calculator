@@ -7,11 +7,10 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
 <p1>• Application designed to complete numerical expressions and display results on GUI</i> <br>
     • Javascript program implemented to conduct numerical expressions. <br>
     • HTML and CSS Utilized for User-friendly GUI Design.<br> </p1>
-    
 <br>
 <br>
 <h3>Programming ToolKit Used:</h3>
-    ❏ Javascript<br>
+    ❏ Javascript <br>
     ❏ HTML <br>
     ❏ CSS <br>
 
