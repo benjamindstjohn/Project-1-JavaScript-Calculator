@@ -11,7 +11,7 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
     ❏ HTML and CSS for User-friendly GUI Design.
 <br>
 <br>
-<h4><a href="https://github.com/sanctusjack/Benjamin-D-St-John/tree/main">Programming Toolkit</a> Utilized</h4>
+<h4><a href="https://github.com/sanctusjack/Benjamin-D-St-John/tree/main">Programming Toolkit Utilized</a></h4>
     ❏ Javascript <br>
     ❏ HTML <br>
     ❏ CSS 
