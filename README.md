@@ -3,12 +3,11 @@
 <p1>For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu</i></p1>
 <br>
 <br>
-<h2>Program Walkthrough:</h2>
-<h3>Basic Calculator: </h3>
-Functionality implemented with Javascript; GUI created with HTML and CSS
-<br>
+<h3>Program Walkthrough:</h3>
+<b>Basic Calculator: </b>
 <i>Application designed to complete numerical expressions and display results on GUI</i>.
-</i>
+    ❏ Javascript program implemented to conduct numerical expressions.<br>
+    ❏ HTML and CSS Utilized for User-friendly GUI Design.
 <br>
 <br>
 <h3>Programming ToolKit Used:</h3>
@@ -16,9 +15,5 @@ Functionality implemented with Javascript; GUI created with HTML and CSS
     ❏ HTML <br>
     ❏ CSS <br>
 <br>
-  <b>Systems Used:</b> <br>
-    ∙ JavaScript Frontend for Functionality <br>
-    ∙ HTML and CSS for User-friendly GUI Design 
 <br>
-<br>
-<br>
+
