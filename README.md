@@ -14,7 +14,7 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
 <h4><a href="https://github.com/sanctusjack/Benjamin-D-St-John/tree/main">Languages and Frameworks Used:</a></h4>
     ∙ Javascript <br>
     ∙ HTML <br>
-    ∙ CSS.
+    ∙ CSS
 <br>
 <br>
 <h5><a href="https://github.com/sanctusjack/Project-3-Calculator">Systems Used:</a></h5>
