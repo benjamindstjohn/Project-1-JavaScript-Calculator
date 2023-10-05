@@ -9,7 +9,7 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
     ❏ HTML and CSS for User-friendly GUI Design.<br>
 <br>
 <h4>Programming ToolKit Used</h4>
-    ❏ Javascript <br>
-    ❏ HTML <br>
-    ❏ CSS <br>
+    ❏ Javascript. <br>
+    ❏ HTML. <br>
+    ❏ CSS. <br>
 
