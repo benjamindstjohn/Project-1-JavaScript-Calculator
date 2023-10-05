@@ -1,6 +1,7 @@
-<h1><a href="https://github.com/sanctusjack/Calculator-Program"<Program 3></a></h1>
-<br>
+<h3>Benjamin D. St. John</h3><br>
+<p1><b>For all professional and business inquiries, please contact:</b><i> bdstjohn@uwm.edu</i></p1>
 <p1>For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu</i></p1>
+<a href="https://github.com/sanctusjack/Project-3-Calculator">Program 3</a>
 <br>
 <br>
 <h3>Program Walkthrough:</h3>
