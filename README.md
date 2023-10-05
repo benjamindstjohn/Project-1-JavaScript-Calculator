@@ -12,8 +12,14 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
 <br>
 <br>
 <h4><a href="https://github.com/sanctusjack/Benjamin-D-St-John/tree/main">Programming Toolkit Utilized</a></h4>
-    ❏ Javascript <br>
-    ❏ HTML <br>
-    ❏ CSS 
+    ∙ Javascript <br>
+    ∙ HTML <br>
+    ∙ CSS.
+<br>
+<br>
+<b>Systems Used:</b> <br>
+    ∙ Front-end development. <br>
+    ∙ JavaScript for Functionality. <br>
+    ∙ User-friendly GUI Design. 
 <br>
 <br>
