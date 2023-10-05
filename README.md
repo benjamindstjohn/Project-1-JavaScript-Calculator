@@ -1,5 +1,4 @@
 <h1>Program 3<br>
-<a href="https://github.com/sanctusjack">Investment Banking</a> & <a href="https://www.linkedin.com/in/benjamin-st-john-353a85278/">Software Engineering</a></h1>
 <p1><b>For all professional and business inquiries, please contact:</b><i> bdstjohn@uwm.edu</i></p1>
 <br>
 <br>
