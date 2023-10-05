@@ -8,7 +8,7 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
     ❏ Application designed to complete numerical expressions.</i> <br>
     ❏ HTML and CSS for User-friendly GUI Design.<br>
 <br>
-<h4><a href="https://github.com/sanctusjack/Benjamin-D-St-John/tree/main">Programming Toolkit</a>Utilized</h4>
+<h4><a href="https://github.com/sanctusjack/Benjamin-D-St-John/tree/main">Programming Toolkit</a> Utilized</h4>
     ❏ Javascript. <br>
     ❏ HTML. <br>
     ❏ CSS. <br>
