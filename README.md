@@ -1,4 +1,4 @@
-<h2>Benjamin D. St. John</h2><br>
+<h2>Benjamin D. St. John</h2> - <b>For all professional and business inquiries, please contact:</b><i> bdstjohn@uwm.edu</i>
 <p1><b>For all professional and business inquiries, please contact:</b><i> bdstjohn@uwm.edu</i></p1>
 <br>
 <br>
