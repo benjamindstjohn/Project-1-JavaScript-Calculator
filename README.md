@@ -1,25 +1,36 @@
-<h1><a href="https://github.com/sanctusjack">Benjamin D. St. John</a></h1>
-For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu</i> <br>
-<br>
-<br>
-<h2><a href="https://github.com/sanctusjack/Project-3-Calculator">Program 3</a></h2>
-<i>⟹ Walkthrough</i> <br>
-<br>
-<br>
-<h3><a href="https://github.com/sanctusjack/Project-3-Calculator/blob/main/script.js">Javascript Calculator</a></h3>
-    ❏ Application designed to complete numerical expressions.</i> <br>
-    ❏ HTML and CSS for User-friendly GUI Design.
-<br>
-<br>
-<h4><a href="https://github.com/sanctusjack/Benjamin-D-St-John/tree/main">Languages and Frameworks Used:</a></h4>
-    ∙ Javascript <br>
-    ∙ HTML <br>
-    ∙ CSS
-<br>
-<br>
-<h5><a href="https://github.com/sanctusjack/Project-3-Calculator">Systems Used:</a></h5>
-    ∙ Front-end development. <br>
-    ∙ JavaScript for Functionality. <br>
-    ∙ User-friendly GUI Design. 
-<br>
-<br>
+<h1>JavaScript Front-end Calculator</h1>
+
+<hr>
+
+# Description
+ 
+```diff
++ Completed +
+
+```
+
+<i>JavaScript program that displays a calculator GUI and allows the user to computate standard math operations.</i>
+  
+<hr>
+
+## Languages and Utilities Used
+
+<b>Languages and Frameworks Used:</b> <br>
+  ∙ JavaScript <br>
+  ∙ HTML <br>
+  ∙ CSS
+
+  <b>Systems Used:</b> <br>
+    ∙ Front-end development <br>
+    ∙ JavaScript for Functionality <br>
+    ∙ User-friendly GUI Design 
+    
+<hr>
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold) @@
+```
